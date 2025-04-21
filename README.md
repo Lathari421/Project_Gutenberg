@@ -18,20 +18,18 @@
 
 ```bash
 pip install requests beautifulsoup4 lxml
+```
 
-
-🧰 使用套件（於程式中引用）
-python
-Copy
-Edit
+## 🧰 使用套件（於程式中引用）
+```python
 from bs4 import BeautifulSoup as bs
 import requests as req
 from pprint import pprint
 import re  # 正規表達式模組
 import os, json
 from time import sleep
-
-▶️ 如何執行程式
+```
+## ▶️ 如何執行程式
 若使用 Jupyter Notebook（.ipynb）
 打開 project_gutenberg/project_gutenberg.ipynb，依序執行每個 Cell。
 
@@ -40,9 +38,10 @@ from time import sleep
 
 ```bash
 python project_gutenberg/project_gutenberg.py
+```
 
-📈 成果展示
+## 📈 成果展示
 
-1.總書本download截圖: project_gutenberg.png 
+1.總書本download截圖: project_gutenberg.png （位於專案資料夾中）
 
 2.影片連結: https://drive.google.com/file/d/1oKKxH0kiQuwFC-P8GJ3hqj8fEPPQl1Ze/view?usp=sharing
