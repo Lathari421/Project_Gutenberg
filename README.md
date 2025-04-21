@@ -8,7 +8,7 @@
 
 請先安裝以下 Python 套件（版本可透過 `pip list` 或 `conda list` 查看）：
 
-Python version 3.11.11
+**Python version**: 3.11.11
 
 - `requests==2.32.3`
 - `beautifulsoup4==4.12.3`
@@ -19,9 +19,11 @@ Python version 3.11.11
 ```bash
 pip install requests beautifulsoup4 lxml
 
+
 🧰 使用套件（於程式中引用）
 python
 Copy
+Edit
 from bs4 import BeautifulSoup as bs
 import requests as req
 from pprint import pprint
