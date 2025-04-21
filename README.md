@@ -42,6 +42,6 @@ python project_gutenberg/project_gutenberg.py
 
 ## 📈 成果展示
 
-1.總書本download截圖: project_gutenberg.png （位於專案資料夾中）
+1.總書本download截圖: project_gutenberg_result.png （位於專案資料夾中）
 
 2.影片連結: https://drive.google.com/file/d/1oKKxH0kiQuwFC-P8GJ3hqj8fEPPQl1Ze/view?usp=sharing
